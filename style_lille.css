@@ -1,0 +1,93 @@
+header{
+	display: block;
+	text-align: justify;
+	vertical-align: top;
+}
+
+div{
+	background-color: rgba(228,24,51,0.9);
+	color: rgb(255,255,200);
+}
+
+h1{
+	color: red;
+	font-style: 4em italic;
+	text-align: center;
+	text-shadow: 5px 3px 5px black;
+	margin: auto;
+}
+
+h2{
+
+}
+
+nav{
+	display: inline-block;
+	width: 200px;
+	border: 2px solid black;
+	border-radius: 5px;
+	margin-right: 50px;
+	float: left;
+}
+
+table{
+	border-collapse: collapse;
+	display: inline-block;
+}
+
+tr{
+	width: 300px;
+}
+
+td{
+	border: 1px solid black;
+	text-align: justify;
+}
+
+dt{
+	text-align: center;
+	background-color: rgba(0,0,0,0.2);
+	margin-top: 10px;
+}
+
+p{
+
+}
+
+label{
+	text-align: justify;
+}
+
+ul{
+	list-style: none;
+}
+
+.sommaire{
+
+}
+
+.table_gras{
+	font-weight: bold;
+}
+
+.celebrites{
+
+}
+
+.histoire{
+
+}
+
+.liens{
+
+}
+
+.plan{
+	display: block;
+
+}
+
+.logolille{
+	display: inline-block;
+	margin: 0;
+}
